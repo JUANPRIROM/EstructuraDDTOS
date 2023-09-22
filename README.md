@@ -30,4 +30,15 @@
 <li>4.1 Algoritmos de ordenamiento </li> 
 <li>4.2 Metodos de busqueda </li> 
 <li>4.3 Recuperacion de datos</li>
-<ul>
+</ul>
+
+<UL>
+<li>ALGORITMO</li>conjunto de instrucciones sistematicas y previamente definidas que se utilizan para realizar una determinada tarea
+<li>ESTRUCTURA DE DATOS</li>son aquellas que nos permiten, como desarrolladores, organizar la informacion de manera eficiente, y en definitiva disenar la solucion correcta para un determinado problema
+<li>DATOS</li>Datos es un termino que se refiere a hechos, eventos, transacciones, etc., que han sido registrados, es la entrada sin procesar de la cual se produce la informacion
+<li>INFORMACION</li>Noticia o dato que informa acerca de algo
+<li>METADATOS</li>datos acerca de los datos y sirven para suministrar informacion sobre los datos producidos
+<li>BIGDATA</li>termino que describe un gran volumen de datos, el cual crece de manera exponencial con el paso del tiempo
+<li>CIENCIA DE DATOS</li>es el estudio de datos con el fin de extraer informacion significativa para empresas. Es un enfoque multidisciplinario que combina principios y practicas del campo de las matematicas, la estadistica, la inteligencia artificial y la ingenieria de computacion para analizar grandes cantidades de datos
+<li>BASES DE DATOS</li>es una herramienta para recopilar y organizar información. Las bases de datos pueden almacenar información sobre personas, productos, pedidos u otras cosas
+</UL>
