@@ -40,5 +40,9 @@
 <li>METADATOS</li>datos acerca de los datos y sirven para suministrar informacion sobre los datos producidos
 <li>BIGDATA</li>termino que describe un gran volumen de datos, el cual crece de manera exponencial con el paso del tiempo
 <li>CIENCIA DE DATOS</li>es el estudio de datos con el fin de extraer informacion significativa para empresas. Es un enfoque multidisciplinario que combina principios y practicas del campo de las matematicas, la estadistica, la inteligencia artificial y la ingenieria de computacion para analizar grandes cantidades de datos
-<li>BASES DE DATOS</li>es una herramienta para recopilar y organizar información. Las bases de datos pueden almacenar información sobre personas, productos, pedidos u otras cosas
+<li>BASES DE DATOS</li>es una herramienta para recopilar y organizar informacion. Las bases de datos pueden almacenar informacion sobre personas, productos, pedidos u otras cosas
+<li>ESTRUCTURAS DE DATOS LINEALES</li>Son aquellas en las que cada elemento puede estar enlazado a cualquier otro componente. Es decir, cada elemento puede tener varios sucesores o varios predecesores.
+<li>ESTRUCTURAS DE DATOS LINEALES</li>Son aquellas en las que los elementos ocupan lugares sucesivos en la estructura y cada uno de ellos tiene un unico sucesor y un unico predecesor.
+<li>ESTRUCTURA DE DATOS DINAMICA</li>Es aquella en la que el tamano ocupado en memoria puede modificarse durante la ejecucion del programa.
+<li>ESTRUCTURA DE DATOS ESTATICA</li>Las estructuras de datos estaticas son aquellas en las que el tamano ocupado en la memoria se define antes de que el programa se ejecute y no puede ser modificado durante la ejecucion del programa.
 </UL>
