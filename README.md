@@ -46,3 +46,22 @@
 <li>ESTRUCTURA DE DATOS DINAMICA</li>Es aquella en la que el tamano ocupado en memoria puede modificarse durante la ejecucion del programa.
 <li>ESTRUCTURA DE DATOS ESTATICA</li>Las estructuras de datos estaticas son aquellas en las que el tamano ocupado en la memoria se define antes de que el programa se ejecute y no puede ser modificado durante la ejecucion del programa.
 </UL>
+
+## UNIDAD 2
+<UL>
+<LI>Listas</LI>Una lista o secuencia es un tipo de dato abstracto que representa una secuencia ordenada de valores, donde el mismo valor puede ocurrir mas de una vez.
+<LI>Diccionarios</LI>Un diccionario es una estructura de datos adecuada para programar una aplicacion de control de stock, que permita manejar de una forma sencilla el inventario de productos de un negocio.
+<LI>Diferencia entre listas y diccionarios</LI>Los diccionarios te serviran de manera similar a las listas, pero con la diferencia de que podras almacenar valores con llaves, lo que hara mas eficiente guardar valores porque no se ocupara tanta memoria como la ocupa una lista siendo utiles para cuando necesites optimizar.
+<LI>Pilas</LI>Una pila es una estructura de
+datos de entradas ordenadas
+tales que solo se introduce y
+elimina por un extremo, llamado
+cima o tope.
+<LI>Pilas estaticas</LI>Las pilas estaticas son estructuras de datos lineales que siguen el principio de LIFO (Last In, First Out), lo que significa que el ultimo elemento insertado es el primero en ser eliminado.
+<LI>Pilas dinamicas</LI>Una pila es una estructura dinamica que apila elementos de forma que para llegar al primero, hay que quitar todos los nodos que se hayan añadido despues. 
+<LI>Cola</LI>Una cola es una estructura de datos que almacena elementos en una lista y permite acceder a los datos por uno de los dos extremos de la lista. Un elemento se inserta en la cola (parte final) de la lista y se suprime o elimina por la frente (parte inicial,cabeza) de la lista.
+<LI>Colas estaticas y dinamicas</LI>Al hablar de una cola estatica, se considera que tendra un tamaño definido y no podra superar dicha capacidad para el almacenamiento de mas informacion, solo la indicada. Y con respecto a una cola dinamica corresponde a aquella que no tendra un limite de capacidad, es decir, podemos hacer n numero de inserciones. Y por otro lado una cola es una estructura dinamica que agrupa elementos como si fuera una cola, por ejemplo una fila de personas. Haciendo que cada vez que se mete un elemento este se añada a la ultima posicion.
+<LI>Lenguaje de programacion R</LI>R es un entorno de software libre (licencia GNU GLP) y lenguaje de programacion interpretado, es decir, ejecuta las instrucciones directamente, sin una previa compilacion del programa a instrucciones en lenguaje maquina. El termino entorno, en R, se refiere a un sistema totalmente planificado y coherente, en lugar de una acumulacion de herramientas especificas e inflexibles, como suele ser el caso en otros softwares de analisis de datos.
+<LI>Lenguaje de programacion Python</LI>Python es un lenguaje de programacion ampliamente utilizado en las aplicaciones web, el desarrollo de software, la ciencia de datos y el machine learning (ML). Los desarrolladores utilizan Python porque es eficiente y facil de aprender, ademas de que se puede ejecutar en muchas plataformas diferentes.
+<LI>Lenguaje de programacion JavaScript</LI>JavaScript es un lenguaje de programacion o de secuencias de comandos que te permite implementar funciones complejas en paginas web, cada vez que una pagina web hace algo mas que sentarse alli y mostrar informacion estatica para que la veas, muestra oportunas actualizaciones de contenido, mapas interactivos, animacion de Graficos 2D/3D, desplazamiento de maquinas reproductoras de video, etc., puedes apostar que probablemente JavaScript esta involucrado. Es la tercera capa del pastel de las tecnologias web estandar, dos de las cuales (HTML y CSS) hemos cubierto con mucho mas detalle en otras partes del area de aprendizaje.
+</UL>
