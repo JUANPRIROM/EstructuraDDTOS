@@ -1,22 +1,22 @@
 from queue import Queue
 
-class RegistroNumeros:
+class RegistroNombres:
     def __init__(self):
-        self.numero_set = set()  # Usamos un conjunto para evitar duplicados
+        self.nombre_set = set()  # Usamos un conjunto para evitar duplicados
         self.pila = []  # Para mantener el orden de inserción en la pila
         self.cola = Queue()
 
-    def agregar_numero_pila(self, numero):
-        if numero not in self.numero_set:
-            self.numero_set.add(numero)
-            self.pila.append(numero)
-            print(f"Se ha agregado el número {numero} a la pila.")
+    def agregar_nombre_pila(self, nombre):
+        if nombre not in self.nombre_set:
+            self.nombre_set.add(nombre)
+            self.pila.append(nombre)
+            print(f"Se ha agregado el número {nombre} a la pila.")
 
-    def agregar_numero_cola(self, numero):
-        if numero not in self.numero_set:
-            self.numero_set.add(numero)
-            self.cola.put(numero)
-            print(f"Se ha agregado el número {numero} a la cola.")
+    def agregar_nombre_cola(self, nombre):
+        if nombre not in self.nombre_set:
+            self.nombre_set.add(nombre)
+            self.cola.put(nombre)
+            print(f"Se ha agregado el número {nombre} a la cola.")
 
     def mostrar_pila(self):
         if not self.pila:
@@ -39,12 +39,12 @@ class RegistroNumeros:
             self.cola = cola_copia  # Restaurar la cola original
 
 if __name__ == "__main__":
-    registro = RegistroNumeros()
+    registro = RegistroNombres()
 
     while True:
         print("\nOpciones:")
-        print("1. Agregar número a la Pila")
-        print("2. Agregar número a la Cola")
+        print("1. Agregar nombre a la Pila")
+        print("2. Agregar nombre a la Cola")
         print("3. Mostrar pila")
         print("4. Mostrar cola")
         print("5. Salir")
@@ -52,11 +52,11 @@ if __name__ == "__main__":
         opcion = input("Elija una opción: ")
 
         if opcion == "1":
-            numero = int(input("Ingrese un número para la pila: "))
-            registro.agregar_numero_pila(numero)
+            nombre = (input("Ingrese un número para la pila: "))
+            registro.agregar_numero_pila(nombre)
         elif opcion == "2":
-            numero = int(input("Ingrese un número para la cola: "))
-            registro.agregar_numero_cola(numero)
+            nombre = (input("Ingrese un número para la cola: "))
+            registro.agregar_numero_cola(nombre)
         elif opcion == "3":
             registro.mostrar_pila()
         elif opcion == "4":

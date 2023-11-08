@@ -65,3 +65,17 @@ cima o tope.
 <LI>Lenguaje de programacion Python</LI>Python es un lenguaje de programacion ampliamente utilizado en las aplicaciones web, el desarrollo de software, la ciencia de datos y el machine learning (ML). Los desarrolladores utilizan Python porque es eficiente y facil de aprender, ademas de que se puede ejecutar en muchas plataformas diferentes.
 <LI>Lenguaje de programacion JavaScript</LI>JavaScript es un lenguaje de programacion o de secuencias de comandos que te permite implementar funciones complejas en paginas web, cada vez que una pagina web hace algo mas que sentarse alli y mostrar informacion estatica para que la veas, muestra oportunas actualizaciones de contenido, mapas interactivos, animacion de Graficos 2D/3D, desplazamiento de maquinas reproductoras de video, etc., puedes apostar que probablemente JavaScript esta involucrado. Es la tercera capa del pastel de las tecnologias web estandar, dos de las cuales (HTML y CSS) hemos cubierto con mucho mas detalle en otras partes del area de aprendizaje.
 </UL>
+
+## UNIDAD 3
+<UL>
+<li>Recursividad</li>Es la propiedad mediante la cual un subprograma o rutina puede llamarse a sí mismo. Utilizando la recursividad, la resolución de un problema se reduce a uno esencialmente igual pero algo menos complejo.
+<li>Arboles</li>Los árboles son estructuras no lineales al contrario a estructuras lineales como lo son los arreglos y las listas. Además, los árboles reducen la complejidad (a un comportamiento logarıtmico) en cuanto a operaciones como inserción y eliminación.
+<li>Grafos</li>Es una estructura matemática que permite representar problemas cotidianos de manera gráfica. Además, la teoría de grafos permite representar un sólo tipo de relación (representación simple), pero también permite representar más de un tipo (en ese caso, se llamaría múltiple).
+</UL>
+
+## UNIDAD 4
+<UL>
+<LI>Metodos de ordenamiento</LI>Es un algoritmo que permuta los datos de una estructura en una secuencia determinada. Los métodos de ordenación son especialmente útiles para que los datos que procesamos sean legibles por humanos y su procesamiento se agilice.
+<li>Metodos de Busqueda</li>Es un conjunto de instrucciones que están diseñadas para localizar un elemento con ciertas propiedades dentro de una estructura de datos.
+<li>Recuperacion de datos</li> Es el conjunto de técnicas y procedimientos utilizados para acceder y extraer la información almacenada en medios de almacenamiento digital que por daño o avería no pueden ser accesibles de manera usual.
+</UL>
